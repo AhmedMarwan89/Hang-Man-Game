@@ -1,0 +1,1 @@
+word_list = ["book" , "car" , "khaled" , "gold" , "dog" ]
